@@ -63,7 +63,7 @@ a{
   =========================================Hero Section==================================*/
 
 .Hero{
-    height: 100vh;
+    height: 60vh;
     background-image: url(Assits/bg_2.webp);
     background-position: center center;
     background-size: cover;
