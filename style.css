@@ -299,10 +299,36 @@ a{
     font-size: 16px;
     margin-bottom: 15px;
 }
-.content-Quality .watch{
+.content-Quality .anchor0{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.content-Quality a .watch{
     color: rgb(255, 255, 255);
     font-size: 16px;
     display: inline-block;
+    position: relative;
+    transform: translateY(80%);
+    margin-left: 7px;
 }
+
+.container-Quality .icon{
+    height: 50PX;
+    width: 50PX;
+    background-color: rgb(128, 168, 251);
+    border-radius: 50%;
+    display: inline-block;
+}
+.container-Quality .triangle{
+    margin: auto;
+    width: 0;
+    height: 0;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 14px solid rgb(255, 255, 255);
+}
+
 
 
