@@ -212,8 +212,8 @@ a{
     width: 50%;
     float: right;
     /*background-color: #e6e3e3;*/
-    margin-top: 80px;
-    padding-top: 40px;
+    margin-top: 55px;
+    padding-top: 25px;
     height: auto;
     overflow: hidden;
 }
@@ -224,14 +224,14 @@ a{
 }
 .right0 .content-right h2{
     margin-bottom: 10px;
-    font-size: 38px;
+    font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     color:rgb(255, 255, 255);
 }
 .right0 .content-right p{
     margin-bottom: 15px;
     color:rgba(255, 255, 255, 0.7);
-    font-size: 16px;
+    font-size: 12px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .right0 .content-right span{
