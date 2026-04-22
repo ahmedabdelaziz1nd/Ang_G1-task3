@@ -257,7 +257,7 @@ a{
     border: #7c7c7c;
 }
 .Quality-Makes .container-Quality{
-    height: 400px;
+    height: 380px;
     background-color: rgb(18, 18, 32);
     background-image: url(Assits/bg_4.webp);
     background-repeat: no-repeat;
@@ -265,12 +265,13 @@ a{
     padding-top: 120px;
     padding-bottom: 120px;
     background-position-y: 7%;
-    background-position-x: 0% ;
+    background-position-x: 50% ;
     position: relative;
     text-align: start;
     width: 100%;
     background-attachment: scroll;
 }
+
 .Quality-Makes .container-Quality .content-Quality{
     width: 42%;
     /*background-color: antiquewhite;*/
