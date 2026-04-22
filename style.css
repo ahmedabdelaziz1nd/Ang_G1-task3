@@ -351,9 +351,9 @@ a{
     margin: auto;
     width: 0;
     height: 0;
-    border-top: 7px solid transparent;
-    border-bottom: 7px solid transparent;
-    border-left: 14px solid rgb(255, 255, 255);
+    border-top: 6px solid transparent;
+    border-bottom: 6px solid transparent;
+    border-left: 12px solid rgb(255, 255, 255);
     position: relative;
-    transform: translateY(120%);
+    transform: translateY(155%);
 }
