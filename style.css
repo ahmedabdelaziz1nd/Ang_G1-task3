@@ -371,13 +371,13 @@ a{
 .container000{
     background-color: rgb(26, 26, 46);
     width: 100%;
-    height: 140vh;
+    height:80%;
 }
 .General-continer{
     width: 70%;
     margin: auto;
     background-color: #4f86f9;
-    height: 123vh;
+    height: 760px;
     overflow: hidden;
 }
 .contianer-content1{
