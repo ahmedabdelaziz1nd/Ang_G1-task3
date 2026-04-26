@@ -360,13 +360,8 @@ a{
     transform: translateY(155%);
 }
 
-
-
-
-
-
-
-
+/*======================================================================Our Exclusive Services====================================================
+  ======================================================================Our Exclusive Services====================================================*/
 
 .container000{
     background-color: rgb(26, 26, 46);
@@ -471,3 +466,127 @@ a{
     color:rgba(0, 0, 0, 0.3),
 }
 
+
+
+/*=========================================We Take Every==========================================================
+  =========================================We Take Every==========================================================*/
+
+.Case-studies{
+    width: 100%;
+    background-color: rgb(26, 26, 46);
+    height: 80%;
+}
+.container-case{
+    width: 100%;
+    height: 55%;
+    /*background-color: rgba(243, 165, 63, 0.808);*/
+}
+.cont-case{
+    background-color: rgb(18, 18, 32);
+    overflow: hidden;
+}
+.cotent-case{
+    /*background-color: rgb(255, 222, 180);*/
+    width: 35%;
+     margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.span102 span{
+    font-size: 10px;
+    color:rgba(0, 0, 0, 0.3);
+}
+.head302 h2{
+   /*background-color: aquamarine;*/
+   color: rgb(255, 255, 255);
+   font-size: 25px;
+   margin-top: 10px;
+   margin-bottom: 20px;
+}
+.conetnt-img{
+    width: 100%;
+   /* background-color: rgb(201, 255, 130);*/
+}
+.imge505{
+   /*background-color: rgb(50, 252, 184);*/
+    height: 100%;
+    width: 100%;
+     margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+.imge202{
+    width: 25%;
+    float:right ;
+    /*border: 1px solid;*/
+    /*background-color: #a38b8b;*/
+    height: 100%;
+}
+.conetnt-img .imge202 img{
+    width: 100%;
+    /*margin-top: 10px;*/
+}
+.container-Great-Reviews{
+    /*background-color: #ffd0006c;*/
+    width: 100%;
+    height: 65%;
+}
+.contet303{
+    background-image: url(Assits/bg_3.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    height: 50%;
+}
+.front-ground{
+    background-color: rgba(79, 134, 249, 0.65) ;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.Technical{
+    /*background-color: rgb(77, 69, 60);*/
+    width: 80%;
+     margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+
+}
+.Technical .small101{
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+}
+.Technical .head606{
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.content-Statistics{
+    /*background-color: rgba(166, 213, 255, 0.411);*/
+    width: 100%;
+    margin-top: 20px;
+}
+.Statistics1{
+/*background-color: rgba(177, 241, 241, 0.692);*/
+    width: 25%;
+    float: right;
+}
+.Stat101{
+    margin-left: 20px;
+    /*background-color: #7c7c7c;*/
+    text-align: center;
+    height: 70px;
+}
+.content-Statistics h3{
+    font-size: 25px;
+    color:rgb(255, 255, 255);
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.content-Statistics p{
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+}
