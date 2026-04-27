@@ -598,13 +598,13 @@ a{
 .general-container-Our-Brilliant{
     background-color: rgb(18, 18, 32);
     width: 100%;
-    height: 100vh;
+    height: 85%;
     overflow: hidden;
 }
 .container-Our-Brilliant{
     background-color: rgb(245, 193, 125);
     width: 80%;
-    height: 80%;
+    height: 85%;
     margin: auto;
     margin-top: 40px;
 }
@@ -635,7 +635,7 @@ a{
 .Our-Brilliant{
     background-color: rgb(180, 220, 255);
     width: 25%;
-    height: 235px;
+    height: 225px;
     margin: auto;
     float: right;
     padding-top: 10px;
@@ -678,7 +678,7 @@ border: 1px solid;
 }
 .conent-Our-Brilliant .icon606{
   background-color: rgba(168, 166, 163, 0.158);
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 .conent-Our-Brilliant .icon606 ul li{
     display: inline-block;
@@ -700,12 +700,11 @@ border: 1px solid;
     margin: auto;
     background-color: #e6e3e3;
     margin-bottom: 2px;
-    padding-top: 10px;
+    padding-top: 7px;
 }
 .span7007{
     width: 50%;
     margin: auto;
-    padding-top: 2px;
     background-color: rgb(255, 199, 126);
 }
 .para4001{
