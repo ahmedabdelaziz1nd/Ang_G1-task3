@@ -602,7 +602,8 @@ a{
 }
 .container-Our-Brilliant{
     background-color: rgb(245, 193, 125);
-    width: 50%;
+    width: 70%;
+    height: 70%;
     margin: auto;
 }
 .head-Meet{
@@ -625,14 +626,14 @@ a{
 .conetnt-contianer{
     background-color: rgb(243, 213, 173);
     width: 100%;
-    
+    height: 60%;
     margin: auto;
     padding-top: 10px;
 }
 .Our-Brilliant{
     background-color: rgb(180, 220, 255);
     width: 25%;
-    
+    height: 100%;
     margin: auto;
     float: right;
 
@@ -642,7 +643,7 @@ a{
 background-color: rgb(30, 30, 48);
 margin: auto;
 width: 80%;
-
+height: 270px;
 position: relative;
 padding-top: 45px;
 text-align: center;
@@ -703,8 +704,8 @@ border: 0.5px solid  rgba(255, 255, 255, 0.1);
  margin: auto;
 }
 .conent-Our-Brilliant .photo-as-logo{
-    width: 70px;
-    height: 70px;
+    width: 90px;
+    height: 89px;
     border-radius:50% ;
     background-color:#7c7c7c;
     margin: auto;
