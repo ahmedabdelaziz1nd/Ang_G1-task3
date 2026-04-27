@@ -633,23 +633,25 @@ a{
 .Our-Brilliant{
     background-color: rgb(180, 220, 255);
     width: 25%;
-    height: 47%;
+    height: 50%;
     margin: auto;
     float: right;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 10px;
+    border: 1px solid;
 }
 .conent-Our-Brilliant{
 background-color: rgb(30, 30, 48);
 margin: auto;
-width: 70%;
-height: 215px;
+width: 80%;
+height: 100%;
 border-radius: 5px;
 position: relative;
 padding-top:  25px;
 text-align: center;
 border: 0.5px solid  rgba(255, 255, 255, 0.1);
+border: 1px solid;
 }
 .conent-Our-Brilliant h3{
    font-size: 12px;
@@ -705,20 +707,102 @@ border: 0.5px solid  rgba(255, 255, 255, 0.1);
  text-align: center;
  margin: auto;
 }
-.conent-Our-Brilliant .photo-as-logo{
-    width: 70px;
-    height:70px;
-    border-radius:50% ;
-    background-color:#7c7c7c;
+.conent-Our-Brilliant .container-photo-n{
+     width: 100%;
+    height:100px;
     position: absolute;
    top: -2%;
-   left: 50%;
-   
+   left: 0%;
    transform: translateY(-50%);
-
+   /*background-color: rgb(245, 245, 145);*/
+   border: 1px solid;
+   margin: auto;
 }
-.Our-Brilliant .photo-as-logo img{
-   width: 70px;
-   height: 70px;
-   border-radius: 50%;
+.conent-Our-Brilliant .photo-as-logo{
+    border-radius:50% ;
+    background-color:#6d6d6d;
+    width: 5%;
+    height: 50%;
+    margin: auto;
+}
+.conent-Our-Brilliant .photo101{
+    background-image: url(Assits/staff-1.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    align-self: stretch;
+    /*border-radius: 50%;*/
+}
+.conent-Our-Brilliant .photo102{
+    background-image: url(Assits/staff-2.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    align-self: stretch;
+}
+.conent-Our-Brilliant .photo103{
+    background-image: url(Assits/staff-3.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    align-self: stretch;
+}
+.conent-Our-Brilliant .photo104{
+    background-image: url(Assits/staff-4.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    align-self: stretch;
+}
+.conent-Our-Brilliant .photo105{
+    background-image: url(Assits/staff-5.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    align-self: stretch;
+}
+.conent-Our-Brilliant .photo106{
+    background-image: url(Assits/staff-6.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    align-self: stretch;
+}
+.conent-Our-Brilliant .photo107{
+    background-image: url(Assits/staff-7.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    align-self: stretch;
+}
+.conent-Our-Brilliant .photo108{
+    background-image: url(Assits/staff-8.webp);
+    background-position: center center;
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    align-self: stretch;
 }
