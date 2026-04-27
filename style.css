@@ -602,14 +602,14 @@ a{
     overflow: hidden;
 }
 .container-Our-Brilliant{
-    background-color: rgb(245, 193, 125);
+   /* background-color: rgb(245, 193, 125);*/
     width: 80%;
     height: 85%;
     margin: auto;
     margin-top: 40px;
 }
 .head-Meet{
-    background-color:rgb(155, 133, 105);
+    /*background-color:rgb(155, 133, 105);*/
     width: 60%;
     margin: auto;
     margin-bottom: 20px;
@@ -626,14 +626,14 @@ a{
     font-size: 10px;
 }
 .conetnt-contianer{
-    background-color: rgb(243, 213, 173);
+    /*background-color: rgb(243, 213, 173);*/
     width: 100%;
     height: 100%;
     margin: auto;
     padding-top: 25px;
 }
 .Our-Brilliant{
-    background-color: rgb(180, 220, 255);
+    /*background-color: rgb(180, 220, 255);*/
     width: 25%;
     height: 225px;
     margin: auto;
@@ -641,10 +641,11 @@ a{
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 10px;
-    border: 1px solid;
+    /*border: 1px solid;*/
 }
 .brillian101{
-    margin-top: 30px;
+    margin-top: 35px;
+    padding-top: 20px;
 }
 .conent-Our-Brilliant{
 background-color: rgb(30, 30, 48);
@@ -656,16 +657,17 @@ position: relative;
 padding-top:  25px;
 text-align: center;
 border: 0.5px solid  rgba(255, 255, 255, 0.1);
-border: 1px solid;
+/*border: 1px solid;*/
 }
 .conent-Our-Brilliant h3{
-   font-size: 12px;
+   font-size: 11.5px;
    font-weight: 900;
    font-family: Verdana,;
    color: rgb(255, 255, 255);
+
 }
 .conent-Our-Brilliant p{
-    font-size: 10px;
+    font-size: 11px;
     font-family:'Times New Roman';
     color: rgb(255, 255, 255);
     margin: auto;
@@ -675,6 +677,9 @@ border: 1px solid;
     font-weight: 900;
     font-family: Verdana;
     color:rgb(79, 134, 249);
+    line-height: 1px;
+    letter-spacing: 1px;
+    white-space: 1px;
 }
 .conent-Our-Brilliant .icon606{
   background-color: rgba(168, 166, 163, 0.158);
@@ -698,17 +703,18 @@ border: 1px solid;
 .head5005{
     width: 50%;
     margin: auto;
-    background-color: #e6e3e3;
+    /*background-color: #e6e3e3;*/
     margin-bottom: 2px;
     padding-top: 7px;
 }
 .span7007{
     width: 50%;
     margin: auto;
-    background-color: rgb(255, 199, 126);
+    /*background-color: rgb(255, 199, 126);*/
 }
 .para4001{
  width: 65%;
+ height: 100%;
  text-align: center;
  margin: auto;
 }
@@ -720,7 +726,7 @@ border: 1px solid;
    left: 0%;
    transform: translateY(-50%);
    /*background-color: rgb(245, 245, 145);*/
-   border: 1px solid;
+   /*border: 1px solid;*/
    margin: auto;
 }
 .conent-Our-Brilliant .photo-as-logo{
@@ -798,7 +804,6 @@ border: 1px solid;
     width: 80px;
     height: 80px;
     background-repeat: no-repeat;
-    box-sizing: border-box;
     align-self: stretch;
 }
 .conent-Our-Brilliant .photo108{
@@ -808,6 +813,5 @@ border: 1px solid;
     width: 80px;
     height: 80px;
     background-repeat: no-repeat;
-    box-sizing: border-box;
     align-self: stretch;
 }
