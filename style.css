@@ -568,6 +568,7 @@ a{
     /*background-color: rgba(166, 213, 255, 0.411);*/
     width: 100%;
     margin-top: 20px;
+    margin-bottom: 15px;
 }
 .Statistics1{
 /*background-color: rgba(177, 241, 241, 0.692);*/
@@ -589,4 +590,114 @@ a{
 .content-Statistics p{
     font-size: 15px;
     color:rgb(255, 255, 255);
+}
+/*=========================================Meet Our Brilliant Minds==========================================================
+    =========================================Meet Our Brilliant Minds==========================================================*/
+
+
+.general-container-Our-Brilliant{
+    background-color: rgb(18, 18, 32);
+    width: 100%;
+    height: 110vh;
+    
+}
+.container-Our-Brilliant{
+    /*background-color: rgb(245, 193, 125);*/
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+.head-Meet{
+    /*background-color:rgb(155, 133, 105);*/
+    width: 50%;
+    margin: auto;
+    margin-bottom: 50px;
+    text-align: center;
+    padding-top: 40px;
+}
+.head-Meet h2{
+    color:rgb(224, 224, 224);
+    font-family: Verdana;
+    font-size: 25px;
+}
+.head-Meet small{
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 10px;
+}
+.conetnt-contianer{
+    /*background-color: rgb(243, 213, 173);*/
+    width: 100%;
+    height: 70%;
+    margin: auto;
+    padding-top: 15px;
+}
+.Our-Brilliant{
+    /*background-color: rgb(180, 220, 255);*/
+    width: 25%;
+    height: 57%;
+    margin: auto;
+    float: right;
+
+    padding-top: 15px;
+}
+.conent-Our-Brilliant{
+background-color: rgb(30, 30, 48);
+margin: auto;
+width: 70%;
+height: 82%;
+position: relative;
+padding-top: 45px;
+text-align: center;
+border: 0.5px solid  rgba(255, 255, 255, 0.1);
+}
+.conent-Our-Brilliant h3{
+   font-size: 12px;
+   font-weight: 900;
+   font-family: Verdana,;
+   color: rgb(255, 255, 255);
+}
+.conent-Our-Brilliant p{
+    font-size: 11px;
+    font-family:'Times New Roman';
+    color: rgb(255, 255, 255);
+}
+.conent-Our-Brilliant span{
+    font-size: 7px;
+    font-weight: 900;
+    font-family: Verdana;
+    color:rgb(79, 134, 249);
+}
+.conent-Our-Brilliant .icon606{
+  background-color: rgba(168, 166, 163, 0.158);
+}
+.conent-Our-Brilliant .icon606 ul li{
+    display: inline-block;
+}
+.conent-Our-Brilliant .icon606 ul{
+    list-style-type: none;
+}
+.conent-Our-Brilliant .icon606 a{
+    text-decoration: none;
+}
+.conent-Our-Brilliant .icon606 ul li img{
+    width: 12px;
+}
+.conent-Our-Brilliant .icon606 ul li a:hover{
+    background-color: rgb(79, 134, 249);
+}
+.conent-Our-Brilliant .photo-as-logo{
+    width: 55%;
+    height: 45%;
+    border-radius:50% ;
+    background-color:#7c7c7c;
+    margin: auto;
+    position: absolute;
+   top: -25%;
+   left: 50%;
+   transform: translateX(-50%);
+}
+.Our-Brilliant .photo-as-logo img{
+   width: 100%;
+   height: 100%;
+   border-radius: 50%;
 }
