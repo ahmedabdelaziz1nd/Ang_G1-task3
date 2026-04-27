@@ -598,18 +598,16 @@ a{
 .general-container-Our-Brilliant{
     background-color: rgb(18, 18, 32);
     width: 100%;
-    height: 110vh;
-    
+    height: 130vh;
 }
 .container-Our-Brilliant{
-    /*background-color: rgb(245, 193, 125);*/
-    width: 80%;
-    height: 100%;
+    background-color: rgb(245, 193, 125);
+    width: 50%;
     margin: auto;
 }
 .head-Meet{
-    /*background-color:rgb(155, 133, 105);*/
-    width: 50%;
+    background-color:rgb(155, 133, 105);
+    width: 70%;
     margin: auto;
     margin-bottom: 50px;
     text-align: center;
@@ -625,16 +623,16 @@ a{
     font-size: 10px;
 }
 .conetnt-contianer{
-    /*background-color: rgb(243, 213, 173);*/
+    background-color: rgb(243, 213, 173);
     width: 100%;
-    height: 70%;
+    
     margin: auto;
-    padding-top: 15px;
+    padding-top: 10px;
 }
 .Our-Brilliant{
-    /*background-color: rgb(180, 220, 255);*/
+    background-color: rgb(180, 220, 255);
     width: 25%;
-    height: 57%;
+    
     margin: auto;
     float: right;
 
@@ -643,8 +641,8 @@ a{
 .conent-Our-Brilliant{
 background-color: rgb(30, 30, 48);
 margin: auto;
-width: 70%;
-height: 82%;
+width: 80%;
+
 position: relative;
 padding-top: 45px;
 text-align: center;
@@ -660,15 +658,17 @@ border: 0.5px solid  rgba(255, 255, 255, 0.1);
     font-size: 11px;
     font-family:'Times New Roman';
     color: rgb(255, 255, 255);
+    margin: auto;
 }
 .conent-Our-Brilliant span{
-    font-size: 7px;
+    font-size: 6px;
     font-weight: 900;
     font-family: Verdana;
     color:rgb(79, 134, 249);
 }
 .conent-Our-Brilliant .icon606{
   background-color: rgba(168, 166, 163, 0.158);
+  margin-bottom: 10px;
 }
 .conent-Our-Brilliant .icon606 ul li{
     display: inline-block;
@@ -685,16 +685,33 @@ border: 0.5px solid  rgba(255, 255, 255, 0.1);
 .conent-Our-Brilliant .icon606 ul li a:hover{
     background-color: rgb(79, 134, 249);
 }
+.head5005{
+    width: 50%;
+    margin: auto;
+    background-color: #e6e3e3;
+    margin-bottom: 10px;
+}
+.span7007{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+    background-color: rgb(255, 199, 126);
+}
+.para4001{
+ width: 65%;
+ text-align: center;
+ margin: auto;
+}
 .conent-Our-Brilliant .photo-as-logo{
-    width: 55%;
-    height: 45%;
+    width: 70px;
+    height: 70px;
     border-radius:50% ;
     background-color:#7c7c7c;
     margin: auto;
     position: absolute;
-   top: -25%;
-   left: 50%;
-   transform: translateX(-50%);
+   top: -5%;
+   left: 30%;
+   transform: translateY(-50%);
 }
 .Our-Brilliant .photo-as-logo img{
    width: 100%;
